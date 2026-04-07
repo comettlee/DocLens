@@ -1,0 +1,11 @@
+<templateSet group="NextJS">
+  <template name="next" value="&quot;use client&quot;;&#10;&#10;import { useState } from &quot;react&quot;;&#10;&#10;export default function $NAME$() {&#10;  const [query, setQuery] = useState(&quot;&quot;);&#10;&#10;  return (&#10;    &lt;div className=&quot;container-fluid py-4&quot;&gt;&#10;      &lt;h2 className=&quot;fw-bold mb-4&quot;&gt;$NAME$&lt;/h2&gt;&#10;      $END$&#10;    &lt;/div&gt;&#10;  );&#10;}" description="Next.js Client Component Template with Bootstrap" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="fileNameWithoutExtension()" defaultValue="&quot;Page&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TSX" value="true" />
+      <option name="JSX" value="true" />
+      <option name="TypeScript" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
