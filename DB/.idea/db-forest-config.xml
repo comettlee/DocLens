@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="db-forest-configuration">
+    <data version="2">.
+	1:0:e85a3909-466e-4f84-96a0-e22f2a51e874:MySQL
+	3:0:4c74f31a-e792-428b-8518-511065bb820f:Oracle
+	4:0:80a08edb-6fb6-4065-8692-e72fdbabccd2:Postgres
+	----------------------------------------
+	2:1:7a5fe117-16db-4fe0-98cc-35c79a715952
+	5:4:467a7f9e-2806-4d62-9aa4-33b54043e99a
+	6:4:0675b462-84c9-49a3-aa5b-6777c618f65d
+	7:4:9adc6580-9ebd-497e-8c89-1312e8eac1f4
+	8:4:e4252c35-d95b-412a-8fd6-4e589ea2b17d
+		.</data>
+  </component>
+</project>
