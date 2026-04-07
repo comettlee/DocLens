@@ -1,7 +1,3 @@
-7년 차 개발자의 프로젝트답게, **DocLens**의 핵심 아키텍처(Hybrid Storage)와 기술 스택이 한눈에 들어오도록 `README.md` 초안을 작성했습니다. 이 내용을 프로젝트 루트 디렉토리에 그대로 복사해서 사용하시면 됩니다.
-
----
-
 # 🔍 DocLens (AI-Powered Document Management System)
 
 **DocLens**는 대규모 문서 데이터에서 의미론적 검색(Semantic Search)과 시계열 대화 이력을 결합한 **Hybrid RAG(Retrieval-Augmented Generation)** 시스템입니다. 사용자의 문서를 분석하여 지식화하고, AI와의 대화를 통해 필요한 정보를 정확하게 추출합니다.
